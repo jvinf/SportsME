@@ -139,6 +139,38 @@ ul.sign li a{
 	-o-transition: all 0.5s ease-out;
 	text-transform:uppercase;
 }
+.search input[type="password"] {
+	border: none;
+	outline: none;
+	background: none;
+	font-size:1.2em;
+	color:#fff;
+	width:86%;
+	padding:4px;
+	-webkit-apperance:none;
+	margin:0;
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	text-transform:uppercase;
+}
+.search select {
+	border: none;
+	outline: none;
+	background: none;
+	font-size:1.2em;
+	color:#fff;
+	width:86%;
+	padding:4px;
+	-webkit-apperance:none;
+	margin:0;
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	-ms-transition: all 0.5s ease-out;
+	-o-transition: all 0.5s ease-out;
+	text-transform:uppercase;
+}
 .search input[type="submit"] {
 	outline: none;
 	cursor: pointer;
