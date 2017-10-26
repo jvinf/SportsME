@@ -860,6 +860,16 @@ a.more-left:hover {
 	padding: 1em;
 	margin: 0.5em 0;
 }
+
+.register-top-grid select {
+	border: 1px solid #EEE;
+	outline-color:#b2ce22;
+	width: 85%;
+	font-size: 1em;
+	padding: 1em;
+	margin: 0.5em 0;
+	background-color: #fff;
+}
 .checkbox {
 	margin-bottom: 4px;
 	padding-left: 27px;
